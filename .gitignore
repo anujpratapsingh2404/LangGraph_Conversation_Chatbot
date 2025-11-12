@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+chatbot.db
+.env
+*.sqlite
+*.log
+.DS_Store
+.idea/
